@@ -1,7 +1,6 @@
-# TBA
+# Analysis of Chulwalar Exports of Blue Etel
 Johnny Quick  
 July 23, 2016  
-# **Analysis of Chulwalar Exports of Blue Etel**
 
 ##**Introduction** 
 

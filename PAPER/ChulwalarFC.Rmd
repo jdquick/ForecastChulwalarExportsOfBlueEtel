@@ -1,12 +1,11 @@
 ---
-title: "TBA"
+title: "Analysis of Chulwalar Exports of Blue Etel"
 author: "Johnny Quick"
 date: "July 23, 2016"
 output: 
   html_document:
     keep_md: true
 ---
-# **Analysis of Chulwalar Exports of Blue Etel**
 
 ##**Introduction** 
 
