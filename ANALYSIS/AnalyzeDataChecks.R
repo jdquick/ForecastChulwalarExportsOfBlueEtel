@@ -1,0 +1,15 @@
+# Check that the data import has worked
+
+str(CEPIVector)
+str(SIGovVector)  
+str(TemperatureVector) 
+str(BirthsVector)
+str(SIExternVector)
+str(UrbanoExportsVector) 
+str(GlobalisationPartyMembersVector)
+str(AEPIVector) 
+str(PPIEtelVector) 
+str(NationalHolidaysVector) 
+str(ChulwalarIndexVector)
+str(InflationVector) 
+str(IndependenceDayPresentsVector)
